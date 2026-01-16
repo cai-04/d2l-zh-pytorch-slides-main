@@ -1,4 +1,5 @@
 # d2l-ai/d2l-zh-pytorch-slides
+李沐深度学习笔记
 
 This repo contains generated notebook slides. To open it locally, we suggest you to install the [rise](https://rise.readthedocs.io/en/stable/) extension.
 
